@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sitecomba/static/css/main.08e84e14.css",
-    "main.js": "/sitecomba/static/js/main.4e237427.js",
+    "main.css": "/sitecomba/static/css/main.c9a2a7dd.css",
+    "main.js": "/sitecomba/static/js/main.0e1137c5.js",
     "static/js/787.38078b07.chunk.js": "/sitecomba/static/js/787.38078b07.chunk.js",
     "static/media/percursso.jpg": "/sitecomba/static/media/percursso.85488ef48c65b69ad39c.jpg",
     "static/media/palmeira.jpg": "/sitecomba/static/media/palmeira.611a06946af02074808e.jpg",
@@ -29,12 +29,12 @@
     "static/media/sala2.webp": "/sitecomba/static/media/sala2.300893f324b55d1ec199.webp",
     "static/media/quarto4.webp": "/sitecomba/static/media/quarto4.20f4f7e218b07fcf570a.webp",
     "index.html": "/sitecomba/index.html",
-    "main.08e84e14.css.map": "/sitecomba/static/css/main.08e84e14.css.map",
-    "main.4e237427.js.map": "/sitecomba/static/js/main.4e237427.js.map",
+    "main.c9a2a7dd.css.map": "/sitecomba/static/css/main.c9a2a7dd.css.map",
+    "main.0e1137c5.js.map": "/sitecomba/static/js/main.0e1137c5.js.map",
     "787.38078b07.chunk.js.map": "/sitecomba/static/js/787.38078b07.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08e84e14.css",
-    "static/js/main.4e237427.js"
+    "static/css/main.c9a2a7dd.css",
+    "static/js/main.0e1137c5.js"
   ]
 }
