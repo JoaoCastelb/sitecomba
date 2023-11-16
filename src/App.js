@@ -21,7 +21,7 @@ function App() {
         </div>
       </header>
       <Routes>
-        <Route path="/" element={<Home />}></Route>
+        <Route path="/sitecomba" element={<Home />}></Route>
         <Route path="space" element={<Space />}></Route>
         <Route path="reserva" element = {< Reserv/>}></Route>
         <Route path="contacts" element={<Contactos />}></Route>

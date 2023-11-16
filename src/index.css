@@ -327,7 +327,7 @@ button:hover{
 .prevBtn{
   position: absolute;
   top: 74%;
-  left: 2%;
+  left: 4%;
 }
 
 .nextBtn{
@@ -339,12 +339,20 @@ button:hover{
 @media (max-width: 800px) {
 
   .clicable{
-    font-size: 15px;
+    font-size: 10px;
   }
 
   .reserva{
     padding: 5px 9px;  
   }
+
+  .reserva:hover{
+    color: #f1eadc;;
+    background-color: #938464;
+    padding: 5px 9px;
+    border-radius: 20px;
+  }
+
 
   .main-logo, .main-logo-foter{
     width: 70px;
@@ -381,13 +389,17 @@ button:hover{
     flex-direction: column;
   }
 
+  .space-pic{
+    width: 320px;
+  }
+
   .place-img{
-    width: 400px;
+    width: 380px;
     border-radius: 10px 10px 0px 0px;
   }
 
   .description{
-    width: 360px;
+    width: 340px;
     border-radius: 0px 0px 10px 10px;
     height: 400px;
   }
