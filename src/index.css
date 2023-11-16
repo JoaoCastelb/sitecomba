@@ -1,13 +1,413 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Gabarito', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  background-color:  #443d2f;
+  color: #f1eadc;
+  font-weight: 300;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.all-about{
+  color: #443d2f;
+  background-color: #fcebc6;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 80px; 
+}
+
+.sobre-title{
+  font-size: 300%;
+  font-weight: 300;
+  text-align: center;
+}
+
+.about{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 0px 200px;
+  padding: 0px 20px 20px 20px;
+  background-color: #fff8ea;
+  border-radius: 5px;
+}
+
+.about-img{
+  width: 600px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+.third-section{
+  text-align: center;
+}
+
+.regalias-section{
+  margin-bottom: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header{
+  background-color: #f1eadc;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 4px 10px  gray;
+}
+
+.footer{
+  background-color: #f1eadc;
+  padding: 20px;
+  align-items: top;
+  display: flex;
+  justify-content: left;
+  color: #443d2f;
+}
+
+.footer-section{
+  margin-right: 50px;
+  width: 200px;
+}
+
+.slideshow{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.intro-img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    object-position: 100% 71%;
+}
+
+.aqui{
+  background-color: #f1eadc;
+  border-radius: 30px;
+  padding: 20px 30px 30px 30px;
+  flex-direction: column;
+  text-align: center;
+  color: #443d2f;
+  font-size: 50px;
+  position: absolute;
+}
+
+.aqui-txt{
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+
+.aqui-btn{
+  font-size: 30px;
+  text-decoration: none;
+  background-color: #443d2f;
+  color: #f1eadc;
+  padding: 6px 40px;
+  border-radius: 5px;
+}
+
+
+
+.main-logo, .main-logo-foter{
+  width: 200px;
+  height: 140px;
+}
+
+.certificado{
+  width: 100px;
+}
+
+.space-pic{
+  width: 400px;
+  height: 270px;
+  margin: 10px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.options-section{
+  width: 950px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.clicable{
+  font-size: 20px;
+  color: #443d2f;
+  text-decoration: none;
+}
+
+.clicable:hover{
+  color: #938464;
+}
+
+.reserva{
+  color: #f1eadc;;
+  background-color: #443d2f;
+  padding: 10px 18px;
+  border-radius: 20px;
+}
+
+.reserva:hover{
+  color: #f1eadc;;
+  background-color: #938464;
+  padding: 10px 18px;
+  border-radius: 20px;
+}
+
+.section{
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.section-reserva{
+  text-align: center;
+  color: #443d2f;
+  background-color: #fcebc6;
+  padding: 20px 0px 128px 0px;
+  margin: 0;
+
+}
+
+.section-around{
+  text-align: center;
+  color: #f1eadc;
+  background-color:#443d2f;
+  padding: 20px 0px 128px 0px;
+  margin: 0;
+
+}
+
+
+.sections-title-reserva{
+  margin: 0;
+  margin-bottom: 50px;
+  font-weight: 300;
+  font-size: 200%;
+}
+
+.division-title{
+  font-size: 160%;
+}
+
+.peso{
+  font-weight: 300;
+
+}
+
+.divison{
+  background-color: #fff8ea;
+  padding-top: 10px;
+  margin: 0px 100px;
+}
+
+.sites{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logotipo{
+  width: 140px;
+  margin-bottom: 10px;
+}
+
+.site{
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+  font-weight: 300;
+  text-decoration: none;
+  color: #f1eadc;
+  background-color: #443d2f;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.site:hover{
+  transform: scale(1.02);
+}
+
+.sections-title{
+  font-weight: 300;
+  margin-top: 50px;
+  font-size: 200%;
+}
+
+.around-title{
+  color: #443d2f;
+}
+
+.place{
+  background-color: #f1eadc;
+  margin: 50px 50px;
+  display: flex;
+  border-bottom: 20px;
+}
+
+.place-img{
+  width: 700px;
+  border-radius: 12px 0px 0px 12px;
+}
+
+.description{
+  width: 700px;
+  height: 490px;
+  padding: 0px 20px;
+  border-radius: 0px 12px 12px 0px;
+  background-color: #f1eadc;
+  color: #443d2f;
+
+  text-align: left;
+}
+
+.place-texto{
+  color: #443d2f;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+
+.opcoes-contacto{
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.contacto, .regalia{
+  background-color:  #f1eadc;
+  color: #443d2f;
+  border-radius: 5px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.morada{
+  width: 192px;
+}
+
+.type{
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 20px;
+  border-bottom: 1px solid #443d2f;
+}
+
+.icon{
+  font-size: 30px;
+}
+
+button{
+  padding: 10px;
+  font-size: 30px;
+  height: 50px;
+  border-radius: 40px;
+  background-color: #f1eadc;
+  color: #443d2f;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+button:hover{
+  background-color: #938464;
+}
+
+.prevBtn{
+  position: absolute;
+  top: 74%;
+  left: 2%;
+}
+
+.nextBtn{
+  position: absolute;
+  top: 74%;
+  right: 53%;
+}
+
+@media (max-width: 800px) {
+
+  .clicable{
+    font-size: 15px;
+  }
+
+  .reserva{
+    padding: 5px 9px;  
+  }
+
+  .main-logo, .main-logo-foter{
+    width: 70px;
+    height: 50px;
+  }
+
+  .footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .about{
+    margin: 10px
+  }
+
+  .regalias-section, .opcoes-contacto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+
+  .regalia, .contacto{
+    margin-bottom: 20px;
+  }
+
+  .divison{
+    margin: 10px;
+  }
+
+  .slideshow{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .place-img{
+    width: 400px;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .description{
+    width: 360px;
+    border-radius: 0px 0px 10px 10px;
+    height: 400px;
+  }
+
+  .prevBtn{
+    position: absolute;
+    top: 66%;
+    left: 8%;
+  }
+  
+  .nextBtn{
+    position: absolute;
+    top: 66%;
+    right: 8%;
+  }
+
+  .sites{
+    display: flex;
+    flex-direction: column;
+  }
+
+
 }
