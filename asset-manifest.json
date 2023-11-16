@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sitecomba/static/css/main.08e84e14.css",
+    "main.js": "/sitecomba/static/js/main.4e237427.js",
+    "static/js/787.38078b07.chunk.js": "/sitecomba/static/js/787.38078b07.chunk.js",
+    "static/media/percursso.jpg": "/sitecomba/static/media/percursso.85488ef48c65b69ad39c.jpg",
+    "static/media/palmeira.jpg": "/sitecomba/static/media/palmeira.611a06946af02074808e.jpg",
+    "static/media/jardim2.jpeg": "/sitecomba/static/media/jardim2.03d5c4609175938d14d4.jpeg",
+    "static/media/jardim.jpg": "/sitecomba/static/media/jardim.6c2a456a310fd99d777c.jpg",
+    "static/media/logoST.png": "/sitecomba/static/media/logoST.a9f88244b43aeaa6f8d2.png",
+    "static/media/cama2.jpg": "/sitecomba/static/media/cama2.82aa982be75e1f92ed07.jpg",
+    "static/media/casa.jpg": "/sitecomba/static/media/casa.ee0561569d0d3a9c20f6.jpg",
+    "static/media/ecopitas.jpg": "/sitecomba/static/media/ecopitas.7e69e4c6d723a4ab93d7.jpg",
+    "static/media/cozinha1.jpeg": "/sitecomba/static/media/cozinha1.85f5fbd0cdd49cfd44ac.jpeg",
+    "static/media/cama3.jpg": "/sitecomba/static/media/cama3.04f8054527cf73f3a9bb.jpg",
+    "static/media/cozinha3.jpeg": "/sitecomba/static/media/cozinha3.1b52c23b4d16417af9f8.jpeg",
+    "static/media/cozinha2.jpeg": "/sitecomba/static/media/cozinha2.7281f71ca87706a51e25.jpeg",
+    "static/media/sala3.webp": "/sitecomba/static/media/sala3.ac8d2df1c883a7f8e42e.webp",
+    "static/media/cama.jpg": "/sitecomba/static/media/cama.35394ea3ac7c7b87d0e4.jpg",
+    "static/media/estrada.jpg": "/sitecomba/static/media/estrada.e22c73b1d480eaafe387.jpg",
+    "static/media/sala.jpg": "/sitecomba/static/media/sala.c43cc1f07028b9f21a7a.jpg",
+    "static/media/praia.jpg": "/sitecomba/static/media/praia.08b1b08e4d1d8984bfcc.jpg",
+    "static/media/jardim3.webp": "/sitecomba/static/media/jardim3.e719d045b619249acda3.webp",
+    "static/media/quarto3.webp": "/sitecomba/static/media/quarto3.77961a2c955ff8767053.webp",
+    "static/media/Digital-Award-TRA-2023.png": "/sitecomba/static/media/Digital-Award-TRA-2023.5be483b0aa9dcd949776.png",
+    "static/media/arbnb.jpg": "/sitecomba/static/media/arbnb.6b83d82d81f24becc574.jpg",
+    "static/media/vrbo.jpg": "/sitecomba/static/media/vrbo.bb7debeaa3d72bc52e44.jpg",
+    "static/media/booking.jpg": "/sitecomba/static/media/booking.36228d51281e02a6cf6a.jpg",
+    "static/media/sala2.webp": "/sitecomba/static/media/sala2.300893f324b55d1ec199.webp",
+    "static/media/quarto4.webp": "/sitecomba/static/media/quarto4.20f4f7e218b07fcf570a.webp",
+    "index.html": "/sitecomba/index.html",
+    "main.08e84e14.css.map": "/sitecomba/static/css/main.08e84e14.css.map",
+    "main.4e237427.js.map": "/sitecomba/static/js/main.4e237427.js.map",
+    "787.38078b07.chunk.js.map": "/sitecomba/static/js/787.38078b07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e84e14.css",
+    "static/js/main.4e237427.js"
+  ]
+}
