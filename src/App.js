@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <header className="header">
-        <Link to="/"><img src={logo} className="main-logo"/></Link>
+        <Link to="/sitecomba"><img src={logo} className="main-logo"/></Link>
         <div className="options-section">
           <Link to="/space" className="clicable">ESPAÇO</Link>
           <Link to="/around" className="clicable">À NOSSA VOLTA</Link>
